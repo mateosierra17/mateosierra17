@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mantra0111
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate vanilla javascript projects
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate with react projects
 - 📫 How to reach me :  phone - +57 301 488 9182 And email- m.sierra1037@hotmail.com 
 
 <!---
