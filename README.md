@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mantra0111
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning React,material-ui and Golang
-- 💞️ I’m looking to collaborate with react projects
+- 🌱 I’m currently learning javascript and C#
+- 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me :  phone - +57 301 488 9182 And email- m.sierra1037@hotmail.com 
 
 <!---
