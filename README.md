@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mantra0111
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Node.js and C#
+- 🌱 I’m currently learning no-sql, authentication
 - 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me :  phone - +57 301 488 9182 And email- m.sierra1037@hotmail.com 
 
