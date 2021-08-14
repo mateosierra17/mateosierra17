@@ -1,7 +1,7 @@
 ## Greetings, My name is Mateo
 
 - 🥑 I live in Medellín, Colombia
-- 🌱 I’m currently learning Mongo db and authentication
+- 🌱 I’m currently learning Typescript 
 - 💞️ I’m looking to collaborate on React projects
 
 
