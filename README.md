@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
-<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
 </p>
 
 
