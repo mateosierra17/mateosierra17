@@ -9,7 +9,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-sierra-betancur-4b70951b7/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:m.sierra1037@hotmail.com)
   
 </div>
 
