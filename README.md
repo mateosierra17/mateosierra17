@@ -1,48 +1,38 @@
-<h1 align="center" > Greetings, My name is Mateo </h1>
+## Greetings, My name is Mateo
 
 - 🥑 I live in Medellín, Colombia
 - 🌱 I’m currently learning Typescript 
 - 💞️ I’m looking to collaborate on React projects
 
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+## Connect with me 
+- Email : m.sierra1037@hotmail.com
+- Phone : +57 301 488 9182
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-sierra-betancur-4b70951b7/)
-[![image](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:m.sierra1037@hotmail.com)
-  
-</div>
+<br/>
 
-<h3 align="center">Languages and Tools:</h3>
+## technologies
+<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/html-5.svg" height="65px" />
+<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/css-3.svg" height="65px" />
+<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/bootstrap.svg" height="65px" />
+<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/javascript.svg" height="65px" />
+<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/react.svg" height="65px" />
+<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/nodejs.svg" height="65px" />
+<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/express.svg" height="65px" />
+<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/mysql.svg" height="65px" />
 
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
+<br/>
+<br/>
 
-<p align="center">
+## stats
+<div>
+ 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
-</p>
-
-
+</div>
 <!---
 mantra0111/mantra0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
