@@ -6,7 +6,7 @@
 
 
 <h2  align="center"  >Connect with me</h2>
-- Email : m.sierra1037@hotmail.com
+- 📫 Email me : **m.sierra1037@hotmail.com**
 - Phone : +57 301 488 9182
 
 <h3 align="center">Languages and Tools:</h3>
@@ -36,12 +36,6 @@
 <img height="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
 <img height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
 </p>
-
-
-
-
-
-
 
 
 <!---
