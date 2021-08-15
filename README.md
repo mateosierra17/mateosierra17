@@ -9,11 +9,6 @@
 - Email : m.sierra1037@hotmail.com
 - Phone : +57 301 488 9182
 
-<p align="center">
-<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
-<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -36,6 +31,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
+<p align="center">
+<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
+<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
+</p>
+
+
+
+
 
 
 
