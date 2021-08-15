@@ -1,15 +1,14 @@
-## Greetings, My name is Mateo
+<h1> Greetings, My name is Mateo </h1>
 
 - 🥑 I live in Medellín, Colombia
 - 🌱 I’m currently learning Typescript 
 - 💞️ I’m looking to collaborate on React projects
 
 
-## Connect with me 
+<h2>Connect with me</h2>
 - Email : m.sierra1037@hotmail.com
 - Phone : +57 301 488 9182
 
-## stats
 <p align="center">
 <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
 <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
