@@ -1,26 +1,46 @@
-<h1> Greetings, My name is Mateo </h1>
+<h1 align="center" > Greetings, My name is Mateo </h1>
 
 - 🥑 I live in Medellín, Colombia
 - 🌱 I’m currently learning Typescript 
 - 💞️ I’m looking to collaborate on React projects
 
 
-<h2>Connect with me</h2>
+<h2  align="center"  >Connect with me</h2>
 - Email : m.sierra1037@hotmail.com
 - Phone : +57 301 488 9182
 
 <p align="center">
-<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
-<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
+<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
+<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
 </p>
-<!---
-mantra0111/mantra0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
+
+
+
+<!---
+mantra0111/mantra0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
