@@ -10,9 +10,10 @@
 - Phone : +57 301 488 9182
 
 ## stats
+<div style="display: flex; width: 100%;">
 - <img align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
 - <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
-
+</div>
 ## technologies
 <div>
 <img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/html-5.svg" height="65px" />
