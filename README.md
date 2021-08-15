@@ -10,9 +10,13 @@
 - Phone : +57 301 488 9182
 
 <br/>
+## stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
+
 
 ## technologies
-<div style="display:flex;">
+<div>
 <img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/html-5.svg" height="65px" />
 <img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/css-3.svg" height="65px" />
  <img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/sass.svg" height="65px" />
@@ -27,14 +31,9 @@
 <br/>
 <br/>
 
-## stats
-<div>
- 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
-</div>
 <!---
 mantra0111/mantra0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
