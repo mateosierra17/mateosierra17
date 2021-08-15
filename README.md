@@ -12,7 +12,6 @@
 ## stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mantra0111&theme=midnight-purple" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple" />
-[![Foo](https://github-readme-stats.vercel.app/api/top-langs/?username=mantra0111&theme=midnight-purple/)
 
 ## technologies
 <div>
