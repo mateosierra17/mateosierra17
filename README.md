@@ -9,21 +9,6 @@
 - Email : m.sierra1037@hotmail.com
 - Phone : +57 301 488 9182
 
-<br/>
-
-## technologies
-<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/html-5.svg" height="65px" />
-<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/css-3.svg" height="65px" />
-<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/bootstrap.svg" height="65px" />
-<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/javascript.svg" height="65px" />
-<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/react.svg" height="65px" />
-<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/nodejs.svg" height="65px" />
-<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/express.svg" height="65px" />
-<img align="left" style="display: inline-block;" src="https://cdn.svgporn.com/logos/mysql.svg" height="65px" />
-
-<br/>
-<br/>
-
 ## stats
 <div>
  
