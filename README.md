@@ -3,11 +3,7 @@
 - 🥑 I live in Medellín, Colombia
 - 🌱 I’m currently learning CI/CD, Jamstack
 - 💞️ I’m looking to collaborate on React projects
-
-
-## Connect with me 
 - Email : m.sierra1037@hotmail.com
-- Phone : +57 301 488 9182
 
 ## stats
 <div>
