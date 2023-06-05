@@ -1,7 +1,7 @@
 ## Greetings, My name is Mateo
 
 - 🥑 I live in Medellín, Colombia
-- 🌱 I’m currently learning CI/CD, Jamstack
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on React projects
 - Email : m.sierra1037@hotmail.com
 
