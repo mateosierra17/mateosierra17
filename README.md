@@ -2,7 +2,7 @@
 
 - 🥑 I live in Medellín, Colombia
 - 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on React projects
+- 🫱 I’m looking to collaborate on Web development projects
 - Email : m.sierra1037@hotmail.com
 
 ## stats
