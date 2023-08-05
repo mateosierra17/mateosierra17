@@ -1,7 +1,7 @@
 ## Greetings, My name is Mateo
 
 - 🥑 I live in Medellín, Colombia
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Next.js
 - 🫱 I’m looking to collaborate on Web development projects
 - Email : m.sierra1037@hotmail.com
 
