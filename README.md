@@ -1,4 +1,4 @@
-## Hi! Thanks For Passing By
+# Hi! Nice to meet you! 👋
 
 - 🥑 I live in Medellín, Colombia
 - 🌱 I’m currently learning Next.js
