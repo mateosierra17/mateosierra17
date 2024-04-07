@@ -1,9 +1,11 @@
 # Hi! Nice to meet you! 👋
 
-- 🥑 I live in Medellín, Colombia
-- 🌱 I’m currently learning Next.js
-- 🫱 I’m looking to collaborate on Web development projects
-- 📨 Email : m.sierra1037@hotmail.com
+### 🥑 I am a web developer based in Medellín, Colombia
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
 
 ![Sierra9999's Stats](https://github-readme-stats.vercel.app/api?username=Sierra9999&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <br>
