@@ -1,6 +1,7 @@
 # Hi! Nice to meet you! 👋
 
 ### 🥑 I am a web developer based in Medellín, Colombia
+### 👉🏻 Check my [Portfolio](https://www.sierramateo.com/ ) 
 ### ✍🏻 I write for <a href="https://www.synergywire.dev/" target="_blank">SynergyWire</a>
 
 ### Skills
