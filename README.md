@@ -12,7 +12,7 @@
 ### currently learning
 ![](https://skillicons.dev/icons?i=elixir,postgres)
 
-![Sierra9999's Stats](https://github-readme-stats.vercel.app/api?username=Sierra9999&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Sierra9999's Stats](https://github-readme-stats.vercel.app/api?username=mateosierra17&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <br>
 
 
